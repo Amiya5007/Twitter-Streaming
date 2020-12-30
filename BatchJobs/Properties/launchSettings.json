@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BatchJobs": {
+      "commandName": "Project",
+      "commandLineArgs": "Twitter Report"
+    }
+  }
+}
